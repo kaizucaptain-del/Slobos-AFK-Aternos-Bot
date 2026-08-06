@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "62.141.62.29",
-    "port": 56154,
+    "ip": "unbalance.play.hosting",
+    "port": 9302,
     "version": "",
     "try-creative": false
   },
