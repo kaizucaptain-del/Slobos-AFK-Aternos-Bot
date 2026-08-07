@@ -8,7 +8,7 @@
   "server": {
     "ip": "unbalance.play.hosting",
     "port": 9302,
-    "version": "1.26.2",
+    "version": "1.20.4",
     "try-creative": false
   },
   "position": {
